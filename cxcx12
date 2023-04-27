@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTM3U billed-msg=""
+#EXTM3U x-tvg-url="http://www.bevy.be/bevyfiles/indonesia.xml, http://www.bevy.be/bevyfiles/indonesiapremium1.xml, http://www.bevy.be/bevyfiles/indonesiapremium2.xml, http://www.bevy.be/bevyfiles/indonesiapremium3.xml, http://www.bevy.be/bevyfiles/indonesiapremium4.xml" refresh="3600"
+
+
+#EXTINF:-1 tvg-id="rcti.id" tvg-logo="http://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/640px-RCTI_logo_2015.svg.png",RCTI
+#EXTGRP:Main
+http://thefirefox12537.github.io/pl_12537iptv/channels/ercetei.m3u8
+
+#EXTINF:-1 tvg-id="mnctv.id" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/640px-MNCTV_logo_2015.svg.png",MNCTV
+#EXTGRP:Main
+http://thefirefox12537.github.io/pl_12537iptv/channels/emenceteve.m3u8
+
+#EXTINF:-1 tvg-id="gtv.id" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/640px-GTV_%282017%29.svg.png",GTV
+#EXTGRP:Main
+http://thefirefox12537.github.io/pl_12537iptv/channels/geteve.m3u8
+
+#EXTINF:-1 tvg-id="inews.id" tvg-logo="http://i.imgur.com/sojdCIg.png",iNews
+#EXTGRP:Main
+http://thefirefox12537.github.io/pl_12537iptv/channels/ainyus.m3u8
